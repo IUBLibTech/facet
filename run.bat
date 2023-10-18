@@ -1,0 +1,1 @@
+start JRE\bin\javaw -Xms96M -Xmx256M -classpath "facet.jar" edu.indiana.dlib.sounddirections.facet.Main

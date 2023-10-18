@@ -1,0 +1,31 @@
+The contents of this file are subject to the Indiana University Sound Directions License, Version 1.0 (the "License"); 
+you may not use this file except in compliance with the License. 
+You may obtain a copy of the License at http://www.dlib.indiana.edu/projects/sounddirections/license/
+
+Software distributed under the License is distributed on an "AS IS" basis, WITHOUT WARRANTY OF ANY KIND, either express or implied. 
+See the License for the specific language governing rights and limitations under the License.
+
+The Original Code is FACET (Field Audio Collection Evaluation Tool).
+
+The Initial Developer of the Original Code is Indiana University Research and Technology Corporation. 
+Portions created by Indiana University Research and Technology Corporation are Copyright 2005-2008 Indiana University Research and Technology Corporation. 
+All Rights Reserved.
+
+Contributor(s): ______________________________________.
+
+__________________________________________________________________
+
+FACET (Field Audio Collection Evaluation Tool) 
+Instructions for recompiling the application
+
+This source code distribution can be recompiled as follows:
+
+1. Recompile the 'facet.jar' file from the existing java source code.
+
+2. Recreate the executable using the setup.nsi file. This file is an NSIS installer script, and you will need NSIS to create the executable. See
+http://nsis.sourceforge.net/Main_Page for more details. You will need to alter the script line 
+    File /r "C:\Program Files\Java\JRE\*"
+to point to a valid copy of the Java JRE.
+
+NOTE: The data.dat file included in this distribution is actually a Microsoft Access (mdb) file. To access it with Access, merely change the extension back to 'mdb'. 
+The extension has been changed to prevent accidental changes.
