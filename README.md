@@ -1,6 +1,9 @@
 # FACET (Field Audio Collection Evaluation Tool) 
 Version 1.00 Release Information
 
+Copyright 2005-2008 Indiana University Research and Technology Corporation. 
+All Rights Reserved.
+
 Quick start:
 - After installing FACET, start the program via the desktop or start menu shortcuts.
 - The first time that you start FACET, you will be presented with a dialog box. Choose ‘Create New’ to start a fresh database with which to begin working 
