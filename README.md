@@ -12,7 +12,7 @@ Quick start:
  
 If you have questions about a particular part of the software, right-click on the field label or name and choose the ‘What is this?’ menu option to be taken to the PDF help documentation.
 
-FACET is best used with its procedures manual and formats document. For further information, please visit the FACET website at http://dlib.indiana.edu/projects/sounddirections/facet/index.shtml. 
+FACET is best used with its procedures manual and formats document. For further information, see the documentation at https://github.com/IUBLibTech/facet/tree/main/docs and Sound Directions documents at https://hdl.handle.net/2022/29453
 
 If you have comments, questions, or feedback concerning FACET, please send an email to dlptech@indiana.edu.
 
